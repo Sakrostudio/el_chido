@@ -25,6 +25,15 @@ p{
   font-size: 21px;
   color: Gray;
 }
+video{
+  padding-top: 25px
+}
+#camp{
+  width: 95%;
+}
+#footer{
+  padding: 50px 10px 10px 10px;
+}
 
 #copyright{
   text-align: right;
